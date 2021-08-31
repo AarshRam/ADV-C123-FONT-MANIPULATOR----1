@@ -19,7 +19,12 @@ font-size: 50px;
     font-size: 30px;
 }
 
-.bla2{
+.form-control{
+    font-family: 'Cookie', cursive;
+    font-size: 15px;
+}
+
+#bla2{
     font-family: 'Cookie', cursive;
     font-size: 30px;
 }
